@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of the army concerning the apprehending of Major Gen. Overton, and the rest of the officers of Scotland, who had a design to divide the forces, and stand in opposition against the Lord Protector, and the present government in England. Likewise, a remonstrance to the people, to be published in all cities and market townes throughout England and Wales; and thier resolution touching the lawes of the land, and the priviledge of the people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82116</idno>
+            <idno type="STC">Wing D630</idno>
+            <idno type="STC">Thomason E824_2</idno>
+            <idno type="STC">ESTC R207681</idno>
+            <idno type="EEBO-CITATION">99866719</idno>
+            <idno type="PROQUEST">99866719</idno>
+            <idno type="VID">119003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119003)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E824[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of the army concerning the apprehending of Major Gen. Overton, and the rest of the officers of Scotland, who had a design to divide the forces, and stand in opposition against the Lord Protector, and the present government in England. Likewise, a remonstrance to the people, to be published in all cities and market townes throughout England and Wales; and thier resolution touching the lawes of the land, and the priviledge of the people.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Norton [i.e. George Horton?],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654 [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printer's name conjectured in Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: [illegible] 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overton, Thomas, fl. 1646 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119003:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE ARMY CONCERNING The apprehending of Major Gen. Over<g ref="char:EOLhyphen"/>ton, and the reſt of the Officers in Scotland, who had a Deſign to divide the Forces, and ſtand in oppoſition againſt the Lord Pro<g ref="char:EOLhyphen"/>tector, and the preſent Government in England.</p>
+            <p>Likewiſe, a Remonſtrance to the People, to be publiſhed in all Cities and Market Townes throughout England and Wales; and their Reſolution touching the Lawes of the Land, and the priviledges of the people.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>C. Norton,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:119003:2"/>
+            <pb n="3" facs="tcp:119003:2"/>
+            <head>A Declaration of the Army, concerning the apprehending of Major General Overton, and the reſt of the Officers in Scotland.</head>
+            <p>WHereas many in this Age, when they grow great in the World, are ſo puft up with pride, that they ſcarce know themſelves; which is, as if the poor Ant the higher
+<pb n="4" facs="tcp:119003:3"/>ſhe gets upon her hill, the bigger ſhe could conceit her ſelf to be: but it is not ſo with many eminent Commanders in Scotland, who deſire nothing more then the enjoy<g ref="char:EOLhyphen"/>ment of thoſe fruits, purchaſed by their indefatigable endeavors, &amp; great expence of blood: Yet notwithſtanding, the diſ<g ref="char:EOLhyphen"/>contents of many have prevailed ſo far, as to lead ſome of the Officers to conſul<g ref="char:EOLhyphen"/>tations and correſpondencies in deſign to withdraw the Army from their Obedi<g ref="char:EOLhyphen"/>ence to the preſent Government, being very much diſ-ſatisfyed therewith; which hath cauſed the General, to ſecure Major Gen. Overton, and divers other eminent Commanders; declaring the Grounds and Reaſons thereof to the reſt of the of<g ref="char:EOLhyphen"/>ficers and ſouldiery: Upon which, many ſeemed to be very much diſcontented; but the major part unanimouſly reſolved
+<pb n="5" facs="tcp:119003:3"/>to live and dye in defence and preſervati<g ref="char:EOLhyphen"/>on of this preſent Conſtitution.</p>
+            <p>But upon the ſending Major Gen. Overton a ſhip-board, the Diſcontents of his party appear<g ref="char:EOLhyphen"/>ed ſo far, that divers of them, both of horſe and foot, did declare and manifeſt unto all Chri<g ref="char:EOLhyphen"/>ſtian people whatſoever, that Sethos King of E<g ref="char:EOLhyphen"/>gypt growing mighty, grew ſo proud withall, that he made his tributary Kings, to draw his Chariots by turns: till (on a time) he eſpyed one of the Kings to look earneſtly on the wheel; and demanding the reaſon thereof, was anſwered by him, That with much comfort he beheld the low<g ref="char:EOLhyphen"/>eſt ſpokes turn uppermoſt by courſe: whereup<g ref="char:EOLhyphen"/>on, the King beholding the moral, left off that barbarous and tyrannical cuſtome. In like man<g ref="char:EOLhyphen"/>ner, it is cordially deſired, that all illegal ways and actions may be reduced, and the peace, ſafety, and tranquility both of our Officers and all others inviolably preſerved.</p>
+            <pb n="8" facs="tcp:119003:4"/>
+            <p>As touching the late Plot it is apparent, that many had entred into an Oath of Secreſie, to liſt men privatly, and to procure all ſuch Armes as ſhould make them formidable, in caſe of any op<g ref="char:EOLhyphen"/>poſition; for which end, they had bought many Blunderbuſſes, Muſquets, Carbines, and Piſtols, and had lodged them (as it is reported) in ſeveral places both in London and Weſtminſter, with a Reſolution to have put a period to the happy Conſtitution of this Government on Chriſtmaſs day, by ſurprizing of the ſeveral Guards at white-Hall, St. Jameſes, the Mewes, and other places. But one of the chief Conſpirators being at laſt ſo ex<g ref="char:EOLhyphen"/>treamly haunted with the Furies of a guilty Con<g ref="char:EOLhyphen"/>ſcience, took an occaſion to reveal the ſame: In which great VVork, the true ſaying of a learned Author is verified; That when the Conſcience ac<g ref="char:EOLhyphen"/>cuſeth, the Tongue confeſſes, the Eyes weep, the Hands wring, the Heart akes, and the Voyce cries; true it is, no part can be at eaſe.</p>
+            <p>Upon which diſcovery, dtvers were apprehend<g ref="char:EOLhyphen"/>ed, and the Armes before-mentioned ſeized and taken.</p>
+            <p>Since which time, many Ship-Chandlers have been examined; and ſome Gunſmiths, who con<g ref="char:EOLhyphen"/>feſſed the number of Arms ſold within the ſpace
+<pb n="7" facs="tcp:119003:4"/>of ſuch a time; but to whom, and for what uſe they could not tell.</p>
+            <p>And upon ſufficient Evidence of their Inno<g ref="char:EOLhyphen"/>cency, they were diſcharged.</p>
+            <p>Great is the care of our prudent State to make a cleer diſcovery of the depth of the Deſign; and to find out the chief Fomentors thereof; to the end they may be brought to condign puniſhment and be made fit Objects of Juſtice.</p>
+            <div type="part">
+               <head>The names of the chief priſoners now in cuſtody.</head>
+               <p>Lieut. Gen. Norwood, Mr. Bagnal, ſou to the Lady Terringham, ſir John Packington, ſir Henry Littleton, ſir Ed<g ref="char:EOLhyphen"/>ward Vernons ſecond ſon, Mr. Pryor, Mr, Brown, Mr. Fryer, M. Glover, Mr. Cuſtis, and Mr. Bayley.</p>
+               <pb n="8" facs="tcp:119003:5"/>
+               <p>THeſe are to certifie, that one Iſaac Marlo of the Age of 14 yeares, a well ſet Youth, of a ruddy colour and brown hair, in a frize Coat and ſerge Doublet and Breeches, and gray ſtockings and black Hat, ran away from his Maſter laſt Thurſday. about 11 or 12 of the clock in the morning, and took with him ten pounds in mo<g ref="char:EOLhyphen"/>ney. If any one can bring word of him to Mr. Roberts ſhop, a Sword-Cutler in Bartholmew-Lane, they ſhall have good content for their pains.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
